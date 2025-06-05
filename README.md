@@ -4,40 +4,24 @@
 - this project is currently unfinished.
 
 📋 _Project features_
-- grid-based movement and exploration.
-- randomized dice rolls for player actions (move, attack, defend, heal).
-- multiple enemy types with distinct behaviors (Slime, Orc, Undead, Goblin).
-- player leveling system with characteristic increases (speed, attack, defense, range) or healing.
-- visual representation of player and enemy health.
-- turn-based combat with attack and defense mechanics.
-- game log for displaying actions and outcomes.
+- grid-based movement and exploration;
+- randomized dice rolls for player stats and actions (move, attack, defend, range);
+- multiple enemy types;
+- player leveling system with characteristic increases (speed, attack, defense, range) or healing;
+- turn-based combat with attack and defense mechanics;
 - multiple predefined dungeon levels to progress through.
-- custom fonts for the game interface.
   
 🛠️ _Technologies_
 - HTML5 Canvas;
-- Vanilla JavaScript (ES6 Modules);
+- Vanilla JavaScript;
 - CSS3.
  
 🔧 _Opportunities for development_
-- more diverse enemy types and boss battles.
-- item and equipment system for player customization.
-- procedural dungeon generation for endless replayability.
+- more diverse enemy types and boss battles;
 - saving and loading game progress.
-- improved sound effects and background music.
+- sound effects and background music.
 - a more visually rich interface with animations.
 - tutorial or in-game help section.
 
-🌐 _API Endpoints_
-.The project uses the following TMDb API endpoints:
-- GET /genre/movie/list - Genre list
-- GET /movie/popular - Popular movies
-- GET /movie/upcoming - Upcoming premieres
-- GET /movie/top_rated - Top rated movies
-- GET /trending/movie/week - Trending movies of the week
-- GET /search/movie - Search movies
-- GET /movie/{id} - Movie details
-- GET /discover/movie - Filter movies
-
 🚀 _Launch recommendations_
-- open index.html in your browser.
+- use the local server and open index.html in your browser.
